@@ -1,0 +1,4 @@
+#icicidetails.txt
+ICICI
+Ameerpet
+IC123AM
